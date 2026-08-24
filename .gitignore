@@ -1,0 +1,10 @@
+# Inno Setup build output
+installer/Output/
+
+# The launcher binary is copied in from the appliance-launcher build to compile the installer;
+# it is a build artifact, not source.
+installer/*.exe
+
+# Never commit a private signing key
+*.key
+private*.txt

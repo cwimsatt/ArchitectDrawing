@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "revit-appliance.exe",
+      "url": "https://github.com/cwimsatt/ArchitectDrawing/releases/download/v1.0.0/revit-appliance.exe",
+      "sha256": "3f3cf9970b88a56ca9973cb191e5769d032ba8226ad92ae2effe146cca0b241f"
+    },
+    {
+      "name": "pretool_log_deny.exe",
+      "url": "https://github.com/cwimsatt/ArchitectDrawing/releases/download/v1.0.0/pretool_log_deny.exe",
+      "sha256": "6e6dabf34ba562a810e9f6bf1745723820fc62ce24de4c106e02b08eac1e5acc"
+    }
+  ]
+}
